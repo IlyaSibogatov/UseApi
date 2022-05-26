@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UseApi</string>
+    <string name="users_list">Users List</string>
+</resources>
